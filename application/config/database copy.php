@@ -48,11 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '45.136.254.234';
-$db['default']['username'] = 'admin';
-$db['default']['password'] = 'Dmt@2022';
-$db['default']['database'] = 'workfeel';
-$db['default']['dbdriver'] = 'mysqli';
+
 // $db['default']['username'] = 'root';
 // $db['default']['password'] = '';
 // $db['default']['database'] = 'botza';
